@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- Original isometric grass block (not Mojang artwork) -->
+  <polygon points="32,6 58,19 32,32 6,19" fill="#6fbf3f"/>
+  <polygon points="6,19 32,32 32,58 6,45" fill="#8a5a2b"/>
+  <polygon points="58,19 32,32 32,58 58,45" fill="#6e4520"/>
+  <polygon points="6,19 32,32 32,38 6,25" fill="#5aa832"/>
+  <polygon points="58,19 32,32 32,38 58,25" fill="#4a8f28"/>
+  <g fill="#a06a35" opacity="0.8">
+    <rect x="11" y="31" width="5" height="5" transform="skewY(26.6)" transform-origin="11 31"/>
+    <rect x="20" y="40" width="5" height="5" transform="skewY(26.6)" transform-origin="20 40"/>
+  </g>
+  <g fill="#5b3a19" opacity="0.8">
+    <rect x="40" y="37" width="5" height="5" transform="skewY(-26.6)" transform-origin="40 37"/>
+    <rect x="48" y="30" width="5" height="5" transform="skewY(-26.6)" transform-origin="48 30"/>
+  </g>
+  <polygon points="32,6 58,19 32,32 6,19" fill="none" stroke="#3d7a1f" stroke-width="1"/>
+</svg>
